@@ -1,0 +1,9 @@
+﻿  title.cpp
+c:\users\yosi0\desktop\hew2\hew2\mainloop.h(9): warning C4005: 'OUT': マクロが再定義されました。
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\shared\minwindef.h(83): note: 'OUT' の以前の定義を確認してください
+  コード生成しています。
+  0 of 26 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  hew2.vcxproj -> C:\Users\yosi0\Desktop\hew2\Release\hew2.exe

@@ -1,0 +1,84 @@
+﻿  compilation header save succeeded; see C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\ps.h
+  compilation header save succeeded; see C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\vs.h
+  AI.cpp
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\AI.cpp(24,20): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\AI.cpp(25,21): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\AI.cpp(30,20): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\AI.cpp(31,21): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\AI.cpp(49,28): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\AI.cpp(50,28): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\AI.cpp(140,28): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\AI.cpp(141,28): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\AI.cpp(180,24): warning C4804: '>=': 演算中の 'bool' 型の使用方法が安全ではありません
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\AI.cpp(191,29): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\AI.cpp(192,29): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\AI.cpp(198,29): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\AI.cpp(199,29): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  BackCamera.cpp
+  BillboardModel.cpp
+  BillboardObject.cpp
+  Camera.cpp
+  Cho.cpp
+  Csv.cpp
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\Csv.cpp(35,34): warning C4101: 'e': ローカル変数は 1 度も使われていません。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\Csv.cpp(40,30): warning C4101: 'e': ローカル変数は 1 度も使われていません。
+  Direct3D.cpp
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\vs.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Direct3D.cpp' をコンパイルしています)
+  
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\ps.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Direct3D.cpp' をコンパイルしています)
+  
+  Explosion.cpp
+  GameObject.cpp
+  HitSphere.cpp
+  Input.cpp
+  IScene.cpp
+  main.cpp
+  Model.cpp
+  NormalObject.cpp
+  ObjModelLoader.cpp
+  SceneTitle.cpp
+  WICTextureLoader.cpp
+  winmain.cpp
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(626,30): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(627,30): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(644,25): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(693,29): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(694,29): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(695,29): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(755,31): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(756,31): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(874,83): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(874,66): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1209,17): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1374,29): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1378,27): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1380,27): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1396,35): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1404,35): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1410,34): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1412,35): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1416,34): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1418,35): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1423,35): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1425,35): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1433,20): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1565,32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1566,32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1567,32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1598,32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1599,32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1600,32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1637,27): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1868,35): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1876,35): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1882,34): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1884,35): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1888,34): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1890,35): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1895,35): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1897,35): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\DX22_00\winmain.cpp(1901,19): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+  コードを生成中...
+  DX22_00.vcxproj -> C:\Users\yosi0\Desktop\就活\ゲーム作品\OH_DX22S22A_10_白井嘉高\DX22_22_Lighting - コピー\x64\Debug\DX22_00.exe
